@@ -1,6 +1,5 @@
-# Flickr_Bulk_Uploader
+# Flickr Bulk Image Uploader
 
-Flickr Bulk Uploader Client 
 
 # Dependencies
 
