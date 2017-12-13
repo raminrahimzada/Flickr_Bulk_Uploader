@@ -1,0 +1,5 @@
+Filter=.jpg|.jpeg|.png|.gif|.bmp
+ApiKey=1231d2841239e024b626f12303d123f1
+ApiSecret=123dc45481d78123
+callback=testcallback
+directory=C:\shraddha pictures\
